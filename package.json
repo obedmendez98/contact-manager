@@ -1,0 +1,15 @@
+{
+  "name": "contactos",
+  "preferGlobal": true,
+  "bin": "./contact.js",
+  "version": "1.0.0",
+  "description": "a line command",
+  "main": "index.js",
+  "author": "obed",
+  "license": "MIT",
+  "dependencies": {
+    "commander": "^4.1.1",
+    "inquirer": "^7.1.0",
+    "mongoose": "^5.9.4"
+  }
+}
